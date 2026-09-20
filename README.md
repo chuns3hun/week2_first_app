@@ -23,8 +23,7 @@ A new Flutter project.
 * **실행 시각:** 2026년 9월 21일
 
 ### 실행 화면
-![2번 과제]![2번 과제](./screenshots/image_a70c03.png)
-
+![2번 과제](./screenshots/2주차%202번%20과제.png)
 ---
 
 ## 3. GitHub 저장소와 첫 commit
